@@ -1,0 +1,6 @@
+[submodule "proto-repo"]
+	path = proto-repo
+	url = https://github.com/Weit145/proto-repo.git
+[submodule "proto"]
+	path = proto
+	url = https://github.com/Weit145/proto-repo.git
